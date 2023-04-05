@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>2</td>
-    <td>Abir</td>
+    <td>Abir Choudhury</td>
   </tr>
   <tr>
     <td>3</td>
